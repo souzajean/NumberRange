@@ -68,11 +68,9 @@ Cada nova mensagem consome um número sequencial automaticamente.
 
 ---
 
-## 🧩 Exemplo prático – Criando um iFlow
+## 🧩 Exemplo prático – iFlow para baixar
 
-### Criando o Package
-**Design → Integrations and APIs**
 
-![Package](images/iflow-package.png)
+![Package](FaixadeNumeracao.zip)
 
-Nome do package:
+
