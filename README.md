@@ -1,6 +1,6 @@
 # Número Intervalos no SAP CPI (SAP BTP)
 
-![Capa](images/capa-linkedin.png)
+![Capa](imagens/capa-linkedin.png)
 
 ---
 
@@ -45,7 +45,7 @@ No **SAP BTP**, dentro do **SAP Cloud Integration**, o Number Range é criado em
 
 ## 🔎 Visão geral do funcionamento
 
-![Overview](images/number-range-overview.png)
+![Overview](imagens/Screenshot_1.png)
 
 Cada nova mensagem consome um número sequencial automaticamente.
 
@@ -53,7 +53,7 @@ Cada nova mensagem consome um número sequencial automaticamente.
 
 ## ⚙️ Principais atributos do Número Intervalos
 
-![Atributos](images/attributes-number-range.png)
+![Atributos](imagens/Screenshot_3.png)
 
 | Atributo | Descrição |
 |--------|----------|
