@@ -39,13 +39,13 @@ No **SAP BTP**, dentro do **SAP Cloud Integration**, o Number Range é criado em
 
 > **Monitor → Manage Stores → Number Ranges**
 
-![Manage Stores](imagens/manage-stores-number-ranges.png)
+![Manage Stores](imagens/Screenshot_1.png)
 
 ---
 
 ## 🔎 Visão geral do funcionamento
 
-![Overview](imagens/Screenshot_1.png)
+![Overview](imagens/Screenshot_20.png)
 
 Cada nova mensagem consome um número sequencial automaticamente.
 
