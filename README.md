@@ -71,6 +71,6 @@ Cada nova mensagem consome um número sequencial automaticamente.
 ## 🧩 Exemplo prático – iFlow para baixar
 
 
-![Package](FaixadeNumeracao.zip)
+![Package](Package/FaixadeNumeracao.zip)
 
 
