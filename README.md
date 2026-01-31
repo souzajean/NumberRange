@@ -39,7 +39,7 @@ No **SAP BTP**, dentro do **SAP Cloud Integration**, o Number Range é criado em
 
 > **Monitor → Manage Stores → Number Ranges**
 
-![Manage Stores](imagems/manage-stores-number-ranges.png)
+![Manage Stores](imagens/manage-stores-number-ranges.png)
 
 ---
 
